@@ -1,4 +1,4 @@
-# GitHub Demo for Penta
+# GitHub Demo pro ISV konferenci
 
 ### Build and run app in remote dev environment - Codespaces
 1. Open repo in browser and open Codespaces to get remote working developer machine
