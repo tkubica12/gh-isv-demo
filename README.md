@@ -15,7 +15,7 @@
 2. Keep you main.py open and ask copilot to add comments and docstrings to your code ```Add comments or docstrings to my file to enhance readability.```
 3. Let Copilot explain part of code by selecting it and asking in context of whole workspace with ```@workspace /explain```
 4. Generate tests with ```@workspace /tests```
-5. Go to multi-file edit, move all files of demoapp to context and enhance app with: ```Now add another company: Prima Banka. Graph should show how are users satisfied with GitHub with 90% very satisfied, 8% satisfied and 2% not sure.```
+5. Go to multi-file edit, move all files of demoapp to context and enhance app with: ```Now add another company: Heavy Coders. Graph should show how are users satisfied with GitHub with 90% very satisfied, 8% satisfied and 2% not sure.```
 6. Try app, commit (let Copilot write message for you) and push changes to automatically deploy to Azure
 
 ### Use extensions
