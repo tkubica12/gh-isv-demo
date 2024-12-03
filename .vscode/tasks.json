@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Demo App",
+            "type": "shell",
+            "command": "sh",
+            "args": [
+                "-c",
+                "cd src/demoapp && streamlit run main.py"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
