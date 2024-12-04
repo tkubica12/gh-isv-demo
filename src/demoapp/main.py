@@ -40,3 +40,6 @@ elif page == "Company 3":
     if df is not None:
         fig = px.pie(df, names='department', values='patients', title='Patients per Department')
         st.plotly_chart(fig)
+
+
+        
