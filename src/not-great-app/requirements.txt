@@ -3,7 +3,7 @@ requests==2.18.4
 Django==1.11.20
 Jinja2==2.10
 urllib3==1.24.1
-PyYAML==3.13
+PyYAML==5.4
 pillow==6.2.1
 lxml==4.3.4
 sqlalchemy==1.2.17
